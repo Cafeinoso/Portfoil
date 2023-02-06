@@ -108,7 +108,7 @@ img {
         rgba(87, 96, 111, 0.9),
         rgba(87, 96, 111, 0.9)
       ),
-      url(./assets/images/navbar-background.jpg);
+      url(/assets/images/navbar-background.jpg);
     background-size: cover;
     background-position: center;
   }
